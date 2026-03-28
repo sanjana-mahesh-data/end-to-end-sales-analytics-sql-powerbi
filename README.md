@@ -32,3 +32,5 @@ Generated actionable insights to improve visibility into business performance an
 
 ## 📸 Dashboard Preview
 <img width="1280" height="720" alt="Screenshot (288)" src="https://github.com/user-attachments/assets/449a4fe5-59ea-49da-a287-0ba7f291d118" />
+
+<img width="1280" height="720" alt="Screenshot (290)" src="https://github.com/user-attachments/assets/5c3354d7-3d91-44b9-8d25-f1b3b18e6f2f" />
